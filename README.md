@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit Singh</h1>
-<h3 align="center">A full stack web developer.</h3>
+<h3 align="center">A computer science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="rachitsinghh" /> </p>
 
