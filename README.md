@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="rachitsinghh" /> </p>
-
+<a href="https://app.daily.dev/nothisisrachit"><img src="https://api.daily.dev/devcards/7fc0aa73b8724f2d802bdf6657a8dc81.png?r=num" width="200" align="right" alt="Rachit singh's Dev Card"/></a>
 - ⚡ Fun fact **I don't like coding at all but I gotta feed myself.**
 
 <h3 align="left">Connect with me:</h3>
